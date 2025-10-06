@@ -1,9 +1,0 @@
-MITQuantFinancePipeline/
-├─ pipeline.py
-├─ README.md
-├─ requirements.txt
-├─ Examples/
-│   ├─ AAPL_combined_2022-01-01_2025-10-5.xlsx
-│   ├─ TSLA_combined_2022-01-01_2025-10-5.xlsx
-│   └─ GME_combined_2022-01-01_2025-10-5.xlsx
-└─ LICENSE
