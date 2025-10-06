@@ -1,4 +1,5 @@
-Pipeline
+Quantitative Finance Pipeline:
+Physics-inspired quant model using similarity kernels and exponential smoothing
 
 Goal: Estimate next‑day direction from simple return‑based features using:
 1) Similarity kernel in feature space to get an up‑probability `q`  
