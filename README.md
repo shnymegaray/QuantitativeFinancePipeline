@@ -85,3 +85,14 @@ These reflect the model-level thresholds that maximized micro‑averaged accurac
 - Reproducibility
 
 - See `requirements.txt` for versions.
+
+
+- License
+MIT License © 2025 Rohan Raj Khatri
+
+- Disclaimer
+This project is for educational and research purposes only and is **not** financial or investment advice.
+
+- Contact
+Created by Rohan Khatri  
+Questions or collaboration: rohanrajkhatri@gmail.com
